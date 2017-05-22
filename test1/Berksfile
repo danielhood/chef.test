@@ -1,2 +1,4 @@
 source 'https://supermarket.chef.io'
 cookbook 'chef-client'
+
+cookbook 'learn_chef_httpd', path: 'cookbooks/learn_chef_httpd'
